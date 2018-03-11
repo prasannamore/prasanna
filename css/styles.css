@@ -1,0 +1,9 @@
+.row{
+	background: #0000ff;
+	padding: 1px;
+	color: #ff0000;
+}
+.container-fluid{
+	float: left;
+	border: 10px;
+}
